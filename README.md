@@ -4,9 +4,13 @@ This project implements a content-based anime recommendation system using metada
 
 📂 Project Structure
 ANIME_CONTENT_BASED/
+
 │── Main.ipynb         # Jupyter Notebook for exploration and testing
+
 │── app.py             # Streamlit app for recommendations
+
 │── dataset_1.csv      # Anime dataset (metadata)
+
 │── README.md          # Project documentation
 
 ⚙️ Requirements
