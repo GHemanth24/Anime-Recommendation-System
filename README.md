@@ -67,10 +67,3 @@ Get top-N recommendations based on similarity.
 
 Interactive web interface built with Streamlit.
 
-📌 Future Improvements
-
-Add collaborative filtering.
-
-Integrate deep learning models for embeddings.
-
-Deploy online using Streamlit Cloud / Hugging Face Spaces.
